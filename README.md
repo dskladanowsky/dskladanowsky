@@ -4,13 +4,14 @@
 
 <br/><br/>
 
-## ***<div align="center">Hi! I'm Derek! I'm a Data Analyst looking for a new job</div>***
+## ***<div align="center">Hi! I'm Derek! I love working with data and solving problems</div>***
 
-If you're looking for a data analyst who loves turning raw data into meaningful insights, you're in the right place! 🚀 I'm passionate about data visualization, SQL, Python, and all things analytics. Currently, I'm finishing a Google Data Analytics Certificate and I'm actively looking for opportunities to grow and contribute in the field of data analysis.
+If you're looking for someone who enjoys turning raw data into meaningful insights, you're in the right place! 🚀 I'm passionate about data visualization, SQL, Python, and all things analytics.  
 
-I recently completed the **Google Data Analytics Certificate**, which you can check out [here](https://www.credly.com/badges/d564f34c-2a7c-438e-8583-4662a4e5e6ff/public_url). I'm always eager to learn and grow in the field of data analysis, and I'm actively looking for opportunities where I can contribute my skills.  
+I recently completed the **Google Data Analytics Certificate**, which you can check out [here](https://www.credly.com/badges/d564f34c-2a7c-438e-8583-4662a4e5e6ff/public_url). I'm always eager to learn, take on new challenges, and find creative solutions using data.  
 
-I enjoy working on projects that challenge me to think creatively and find data-driven solutions. Feel free to check out my repositories, connect with me, or just say hi! ✨ I'm always open to new opportunities and collaborations.
+I enjoy working on projects that push me to think critically and uncover valuable insights. Feel free to check out my repositories, connect with me, or just say hi! ✨ I'm open to new opportunities, collaborations, and interesting projects.
+
 
 
 
