@@ -8,7 +8,7 @@
 
 If you're looking for someone who enjoys turning raw data into meaningful insights, you're in the right place! 🚀 I'm passionate about data visualization, SQL, Python, and all things analytics.  
 
-🔗 Check out my portfolio: [Portfolio](dskladanowsky.github.io)
+🔗 Check out my portfolio: [dskladanowsky.github.io](https://dskladanowsky.github.io/)
 
 I recently completed the **Google Data Analytics Certificate**, which you can check out [here](https://www.credly.com/badges/d564f34c-2a7c-438e-8583-4662a4e5e6ff/public_url). I'm always eager to learn, take on new challenges, and find creative solutions using data.  
 
